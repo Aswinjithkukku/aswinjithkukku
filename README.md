@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aswin Jith</h1>
 <h3 align="center">A passionate full stack developer from India. Ofcourse you can collab with me :)</h3>
 
-- 🌱 I’m currently learning **React and Django**
+- 🌱 I’m currently learning **React and NodeJS**
 
 - 💬 Ask me about **React**
 
